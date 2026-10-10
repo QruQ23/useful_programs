@@ -33,7 +33,6 @@ W badaniu kohortowym porównano objawy bezsenności przed pandemią i podczas je
 | 2018 | 25,4% | 16,8% |
 | 2020 | 32,2% | 19,0% |
 
-Źródło: [Morin i in., *Sleep* (2022)](https://pubmed.ncbi.nlm.nih.gov/34698868/), DOI: [10.1093/sleep/zsab258](https://doi.org/10.1093/sleep/zsab258). Wyniki dotyczą Kanady.
 
 ![Wykres przedstawiający wpływ snu na zdrowie](wykres.png)
 
