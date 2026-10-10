@@ -2,7 +2,7 @@
 
 ## Zatrważająca liczba ludzi została odnotowana w badaniach jako cierpiących na bezsenność. Co możemy zrobić, aby zapewnić sobie zdrowy wypoczynek i dobre przygotowanie do nadchodzącego dnia?
 
-## Jak poprawić jakość snu?
+### Jak poprawić jakość snu?
 
 Niektórzy uważają, że ~~bezsenności nie da się wyleczyć ani złagodzić jej wpływu na codzienne życie~~. To nieprawda. ***Zdrowa wieczorna rutyna*** może poprawić jakość snu. Oto kilka prostych sposobów:
 
@@ -24,7 +24,44 @@ Jeżeli doświadczasz chronicznej bezsenności, warto skonsultować się z lekar
 
 Warto skonsultować się z lekarzem, jeśli problemy te utrzymują się przez dłuższy czas i wpływają na codzienne funkcjonowanie. Pamiętaj, że zdrowy sen jest kluczowy dla ogólnego zdrowia i dobrego samopoczucia.
 
+### Bezsenność w Kanadzie w latach 2018 i 2020
+
+W badaniu kohortowym porównano objawy bezsenności przed pandemią i podczas jej pierwszej fali.
+
+| Rok | Objawy bezsenności | Zespół bezsenności |
+| --- | ---: | ---: |
+| 2018 | 25,4% | 16,8% |
+| 2020 | 32,2% | 19,0% |
+
+Źródło: [Morin i in., *Sleep* (2022)](https://pubmed.ncbi.nlm.nih.gov/34698868/), DOI: [10.1093/sleep/zsab258](https://doi.org/10.1093/sleep/zsab258). Wyniki dotyczą Kanady.
+
 ![Wykres przedstawiający wpływ snu na zdrowie](wykres.png)
-Czasami ludzie z bezsennością zgłaszają sny związane z rzutem ukośnym (diagram wyżej)
 
+*Czasami ludzie z bezsennością zgłaszają sny związane z rzutem ukośnym (diagram wyżej).*
 
+Jeżeli odczuwasz problemy ze snem, możesz podzielić się swoimi doświadczeniami i strategiami radzenia sobie z bezsennością w [notebooku Google Colab](https://colab.research.google.com/). Wspólne dzielenie się wiedzą może pomóc w znalezieniu skutecznych metod poprawy jakości snu.
+
+Z naszych doświadczeń wynika, że osoby cierpiące na bezsenność to w części matematycy specjalizujący się w kilku specyficznych wzorach, takich jak $\sum_{n=1}^{\infty} \frac{1}{n^2}$, $\int_0^\infty e^{-x^2} dx$ czy $\lim_{x \to 0} \frac{\sin(x)}{x}$. Zgłaszano również przypadki pracy nad takimi wzorami:
+
+$$
+\sum_{n=31}^{\infty} \frac{3}{n^2}
+$$
+
+$$
+\int_0^\infty e^{-x^3} dx
+$$
+
+$$
+\int_0^\infty \frac{\sin(x)}{x} dx
+$$
+
+Warto zauważyć, że te wzory mogą prowadzić do stresu i trudności w zasypianiu.
+
+Zupełnie poważnie mówiąc, ten artykuł/zadanie, mimo że nosi znamiona opowiadania lub pracy absurdalnej, w dużej mierze zostało bardzo dobrze i rzetelnie uzupełnione dzięki podpowiedziom dostępnego w Visual Studio Code chata, co wywołuje u mnie niemałe przerażenie. Uważam, że zabrnąłem już w absurd za daleko, dlatego na sam koniec programuję ostatnią część tego zadania.
+
+```python
+x = int(input("Podaj liczbę: "))
+y = x**3
+print(f"Wynik potęgowania: {y}")
+print("Miłego dnia i zdrowego snu!")
+```
