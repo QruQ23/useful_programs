@@ -1,5 +1,5 @@
 # Transkrypcja
-Obrazek 'zrzut.png' zatopiony w dokumencie.
+![Notatka](./zrzut.png)
 ## Prompt użyty do wygenerowania tekstu przez AI:
 
 ```
