@@ -1,1 +1,1 @@
-Suma kwadratów liczb 6 i 8 wynosi: 100
+338350
