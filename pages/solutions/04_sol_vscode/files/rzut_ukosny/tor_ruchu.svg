@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
-<rect width="800" height="500" fill="#fff"/><text x="400" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#20252b">Tor ruchu dla v0 = 37 m/s, alpha = 52 deg</text>
-<g stroke="#dce1e6" stroke-width="1"><path d="M90 390H750M90 330H750M90 270H750M90 210H750M90 150H750M90 90H750"/><path d="M90 90V390M184 90V390M279 90V390M373 90V390M467 90V390M561 90V390M656 90V390M750 90V390"/></g>
-<g stroke="#353b42" stroke-width="2"><path d="M90 390H750M90 390V75"/></g>
-<g font-family="sans-serif" font-size="13" fill="#353b42"><text x="90" y="414" text-anchor="middle">0</text><text x="279" y="414" text-anchor="middle">40</text><text x="467" y="414" text-anchor="middle">80</text><text x="656" y="414" text-anchor="middle">120</text><text x="420" y="456" text-anchor="middle">Położenie x [m]</text><text x="35" y="240" transform="rotate(-90 35 240)" text-anchor="middle">Wysokość y [m]</text><text x="78" y="394" text-anchor="end">0</text><text x="78" y="274" text-anchor="end">20</text><text x="78" y="154" text-anchor="end">40</text></g>
-<path d="M90 390 L137 317 L184 261 L232 219 L279 189 L326 171 L373 165 L420 171 L467 189 L514 219 L561 261 L608 317 L656 390" fill="none" stroke="#087e8b" stroke-width="4"/>
-<path d="M90 390 L130 328 L170 284 L210 256 L250 239 L290 233 L330 238 L370 251 L410 272 L450 300 L490 335 L530 375" fill="none" stroke="#d04a35" stroke-width="4" stroke-dasharray="10 7"/>
-<g font-family="sans-serif" font-size="14" fill="#20252b"><path d="M540 60h34" stroke="#087e8b" stroke-width="4"/><text x="582" y="65">Bez oporu</text><path d="M655 60h34" stroke="#d04a35" stroke-width="4" stroke-dasharray="10 7"/><text x="697" y="65">Z oporem</text></g>
-</svg>
