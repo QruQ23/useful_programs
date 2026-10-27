@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#fff"/><text x="400" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#20252b">Zasieg w funkcji kata wyrzutu</text>
+<g stroke="#dce1e6"><path d="M90 390H750M90 330H750M90 270H750M90 210H750M90 150H750M90 90H750M90 390V80M200 390V80M310 390V80M420 390V80M530 390V80M640 390V80M750 390V80"/></g><g stroke="#353b42" stroke-width="2"><path d="M90 390H750M90 390V75"/></g>
+<path d="M125 325 L200 237 L275 165 L350 115 L425 88 L500 85 L575 106 L650 147 L725 210" fill="none" stroke="#087e8b" stroke-width="4"/><path d="M125 330 L200 265 L275 212 L350 173 L425 148 L500 139 L575 143 L650 158 L725 184" fill="none" stroke="#d04a35" stroke-width="4" stroke-dasharray="10 7"/>
+<path d="M510 80V390" stroke="#555" stroke-width="2" stroke-dasharray="5 5"/><circle cx="510" cy="139" r="6" fill="#d04a35"/>
+<g font-family="sans-serif" font-size="13" fill="#353b42"><text x="125" y="414" text-anchor="middle">10</text><text x="275" y="414" text-anchor="middle">30</text><text x="425" y="414" text-anchor="middle">50</text><text x="575" y="414" text-anchor="middle">70</text><text x="725" y="414" text-anchor="middle">85 deg</text><text x="420" y="456" text-anchor="middle">Kat wyrzutu [stopnie]</text><text x="35" y="240" transform="rotate(-90 35 240)" text-anchor="middle">Zasieg [m]</text></g>
+<g font-family="sans-serif" font-size="14" fill="#20252b"><path d="M525 55h30" stroke="#087e8b" stroke-width="4"/><text x="562" y="60">Bez oporu</text><path d="M650 55h30" stroke="#d04a35" stroke-width="4" stroke-dasharray="9 6"/><text x="687" y="60">Z oporem</text><text x="520" y="115">52 deg</text></g>
+</svg>
